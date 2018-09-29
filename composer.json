@@ -1,7 +1,7 @@
 {
   "name": "wattanar/sqlsrv-helper",
   "type": "library",
-  "description": "library help you query a rows of data easier with sqlsrv",
+  "description": "Sqlsrv library help you query a rows of data more easier",
   "keywords": [
     "php",
     "sqlsrv"
